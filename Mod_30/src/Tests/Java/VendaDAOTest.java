@@ -276,6 +276,7 @@ public class VendaDAOTest {
 		produto.setNome("Produto 1");
 		produto.setValor(valor);
 		produtoDao.cadastrar(produto);
+		produto.setCor("Azul");
 		return produto;
 	}
 
@@ -288,6 +289,7 @@ public class VendaDAOTest {
 		cliente.setEstado("SP");
 		cliente.setNumero(10);
 		cliente.setTel(1199999999L);
+		cliente.setGenero("Masculino");
 		clienteDao.cadastrar(cliente);
 		return cliente;
 	}

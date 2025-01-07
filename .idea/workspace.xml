@@ -1,8 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="32f863db-ae8c-4b7b-99a7-b954632ab60a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/Tests/Java/ClienteDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/Tests/Java/ClienteDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/Tests/Java/ClienteServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/Tests/Java/ClienteServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/Tests/Java/ProdutoDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/Tests/Java/ProdutoDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/Tests/Java/ProdutoServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/Tests/Java/ProdutoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/Tests/Java/VendaDAOTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/Tests/Java/VendaDAOTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Dao/ClienteDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Dao/ClienteDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Dao/Generic/Factory/ClienteFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Dao/Generic/Factory/ClienteFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Dao/Generic/Factory/ProdutoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Dao/Generic/Factory/ProdutoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Dao/ProdutoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Dao/ProdutoDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Domain/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Domain/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Domain/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mod_30/src/main/Java/br/com/Elias/Domain/Produto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Elias-Vasconcelos"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Elias-Vasconcelos&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Elias-Vasconcelos/exercicio_modulo_30.git",
-    "accountId": "57105c34-346a-40ae-8be4-a1ea0d76003a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Elias-Vasconcelos/exercicio_modulo_30.git&quot;,
+    &quot;accountId&quot;: &quot;57105c34-346a-40ae-8be4-a1ea0d76003a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -32,18 +46,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Elias/Documents/GitHub/exercicio_modulo_30",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pokeb/OneDrive/Documentos/GitHub/exercicio_modulo_30&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
